@@ -1,4 +1,4 @@
 # hello-world
 Test Project
 
-here is the master.
+here is s hardcopy of the master.
